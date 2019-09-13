@@ -1,0 +1,20 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+:root{
+  /*Set default values in variables*/  
+  --background : black;
+  --body-background-color : darkkhaki;
+  --background-color-buttons : gray;    
+}
+/*Specifying colors with css variables*/
+#app{
+  color : var(--background);  
+}
+body{
+  background-color: var(--body-background-color);
+}
+button{
+  background-color: var(--background-color-buttons);
+}

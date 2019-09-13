@@ -1,0 +1,12 @@
+{  
+  "themeOne" : {
+    "buttonsColor" : "red",
+    "textColor":"green",
+    "bodyBrackgroundColor":"cornflowerblue"
+  },
+  "themeTwo" :{
+    "buttonsColor" : "yellow",
+    "textColor":"orange",
+    "bodyBrackgroundColor":"darkkhaki"
+  }    
+}
